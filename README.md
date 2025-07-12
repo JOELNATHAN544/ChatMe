@@ -152,7 +152,6 @@ We welcome contributions! To contribute to ChatMe, follow these steps:
     Open a pull request.
 
 ## License
-MIT
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Additional Notes
